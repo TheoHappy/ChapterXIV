@@ -8,7 +8,7 @@ public class SearchingStrings {
         System.out.println("Enter char and press enter ");
         String inputCharacter = input.next();
         char character = inputCharacter.charAt(0);
-        System.out.printf("number of occurrences of the character %c in the text \"%s\" is %d",
+        System.out.printf("Number of occurrences of the character %c in the text \"%s\" is %d",
                 character,
                 sentence,
                 searchChar(sentence, character));
