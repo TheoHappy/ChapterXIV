@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9503e7-21b8-4d48-bf30-3f139ff66557" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MorseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintingDatesInVariousFormats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MorseCode2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterXIV/MorseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterXIV/MorseCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MorseCode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +59,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MorseCode">
-    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintingDatesInVariousFormats.DateTest" />
+  <component name="RunManager" selected="Application.MorseCode2">
+    <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorseCode" />
       <module name="ChapterXIV" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PrintingDatesInVariousFormats.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MorseCode" />
+      <module name="ChapterXIV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeVersionII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorseCodeVersionII" />
+      <module name="ChapterXIV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PigLatin" />
       <module name="ChapterXIV" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,27 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchingStrings" />
-      <module name="ChapterXIV" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TokenizingAndComparingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TokenizingAndComparingStrings" />
-      <module name="ChapterXIV" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MorseCode2" />
+        <item itemvalue="Application.PigLatin" />
         <item itemvalue="Application.MorseCode" />
+        <item itemvalue="Application.MorseCodeVersionII" />
         <item itemvalue="Application.PrintingDatesInVariousFormats" />
-        <item itemvalue="Application.DateTest" />
-        <item itemvalue="Application.TokenizingAndComparingStrings" />
-        <item itemvalue="Application.SearchingStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +117,7 @@
       <updated>1576156004304</updated>
       <workItem from="1576349904084" duration="7369000" />
       <workItem from="1576409356028" duration="6372000" />
+      <workItem from="1576428386001" duration="12713000" />
     </task>
     <servers />
   </component>
