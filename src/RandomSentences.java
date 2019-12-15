@@ -2,10 +2,10 @@ import java.security.SecureRandom;
 
 public class RandomSentences {
     public static void main(String[] args) {
-        String article[] = {"the", "a", "one", "some", "any"};
-        String noun[] = {"boy", "girl", "dog", "town", "car"};
-        String verbs[] = {"drove", "jumped", "ran", "walked", "skipped"};
-        String preposition[] = {"to", "from", "over", "under", "on"};
+        String[] article = {"the", "a", "one", "some", "any"};
+        String[] noun = {"boy", "girl", "dog", "town", "car"};
+        String[] verbs = {"drove", "jumped", "ran", "walked", "skipped"};
+        String[] preposition = {"to", "from", "over", "under", "on"};
 
         SecureRandom randomNumber = new SecureRandom();
         for (int i = 0; i < 20; i++) {
