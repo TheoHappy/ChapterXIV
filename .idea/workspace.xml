@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9503e7-21b8-4d48-bf30-3f139ff66557" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TokenizingAndComparingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MorseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintingDatesInVariousFormats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChapterXIV/SearchingStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterXIV/SearchingStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomSentences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomSentences.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,23 +58,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TokenizingAndComparingStrings">
-    <configuration name="DisplayingSentenceWithItsWordsReversed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DisplayingSentenceWithItsWordsReversed" />
+  <component name="RunManager" selected="Application.MorseCode">
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintingDatesInVariousFormats.DateTest" />
+      <module name="ChapterXIV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrintingDatesInVariousFormats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorseCode" />
       <module name="ChapterXIV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PigLatin" />
-      <module name="ChapterXIV" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomSentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomSentences" />
+    <configuration name="PrintingDatesInVariousFormats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintingDatesInVariousFormats" />
       <module name="ChapterXIV" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MorseCode" />
+        <item itemvalue="Application.PrintingDatesInVariousFormats" />
+        <item itemvalue="Application.DateTest" />
         <item itemvalue="Application.TokenizingAndComparingStrings" />
         <item itemvalue="Application.SearchingStrings" />
-        <item itemvalue="Application.RandomSentences" />
-        <item itemvalue="Application.DisplayingSentenceWithItsWordsReversed" />
-        <item itemvalue="Application.PigLatin" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576156004304</updated>
       <workItem from="1576349904084" duration="7369000" />
-      <workItem from="1576409356028" duration="838000" />
+      <workItem from="1576409356028" duration="6372000" />
     </task>
     <servers />
   </component>
